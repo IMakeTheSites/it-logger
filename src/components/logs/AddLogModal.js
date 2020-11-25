@@ -23,7 +23,7 @@ const AddLogModal = ({ addLog }) => {
             addLog(newLog);
 
             M.toast({ htmll: `Log added by ${tech}` });
-            
+
             // Clear Fields
             setMessage('');
             setTech('');
@@ -76,7 +76,7 @@ const AddLogModal = ({ addLog }) => {
     )
 }
 
-AddLogModal.PropTypes = {
+AddLogModal.propTypes = {
     addLog: PropTypes.func.isRequired,
 }
 
