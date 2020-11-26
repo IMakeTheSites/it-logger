@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "Computer turned into pudding",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-11-25T17:36:34.417Z",
-      "id": 1
+      "id": 1,
+      "message": "Computer turned into jello",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-11-26T03:25:13.266Z"
     },
     {
-      "message": "Animated Glitch-Animals came out to attack the city",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-11-25T17:37:08.149Z",
-      "id": 2
+      "id": 2,
+      "message": "Animated Glitch-Animals were successfully repelled",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-11-26T03:25:53.394Z"
     }
   ],
   "techs": [
