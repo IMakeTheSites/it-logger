@@ -30,6 +30,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Rudy",
+      "lastName": "Giuliani",
+      "id": 4
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Biden",
+      "id": 5
     }
   ]
 }
